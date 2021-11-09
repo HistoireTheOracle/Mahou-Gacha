@@ -1,0 +1,8 @@
+{
+    "type": "status_effect:beneficial",
+    "color": {
+        "red": 0,
+        "green": 0.1,
+        "blue": 0.6
+    }
+}

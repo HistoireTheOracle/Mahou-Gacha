@@ -1,0 +1,15 @@
+{
+    "type": "item:food",
+    "item_group": "brewing",
+    "max_count": 3,
+    "hunger": 0,
+    //"fuel_tick": 60,
+    "saturation": 0,
+    "meat": false,
+    "always_edible": true,
+    //"lore": "",
+    "drinkable": true,
+    "returns": "minecraft:glass_bottle",
+    "sound": "entity.generic.drink",
+    "eating_time": 40
+}
