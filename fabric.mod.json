@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "environment": "*",
+  "depends": {
+    "minecraft": "1.17.x",
+    "fabric": "*",
+    "fabric-api-base": "*",
+    "ccpacks": "1.0.0"
+  },
+  "jars": [
+    {
+      "file": "META-INF/jars/custom-content-packs-1.0.0.jar"
+    }
+  ],
+  "authors": [
+    "OracleHisty"
+  ],
+  "name": "Mahou Gacha",
+  "id": "mahou-gacha",
+  "version": "0.0.1",
+  "description": "Histo's Fabric Custom Magic and Whatnot Mod",
+  "license": "All Rights Reserved",
+  "pack_format": 7
+}

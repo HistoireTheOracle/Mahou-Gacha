@@ -1,0 +1,5 @@
+{
+	"item.mahou-gacha.template_item": "Item Template",
+	"effect.mahou-gacha.potion_effect": "Dehydration",
+	"death.attack.death_message": "%1$s message"
+}
