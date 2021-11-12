@@ -1,7 +1,0 @@
-{
-    "type": "item:generic",
-    "item_group": "materials",
-    //"lore": "",
-    //"fuel_tick": 60,
-    "max_count": 64
-}

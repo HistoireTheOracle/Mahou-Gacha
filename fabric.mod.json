@@ -5,13 +5,9 @@
     "minecraft": "1.17.x",
     "fabric": "*",
     "fabric-api-base": "*",
-    "ccpacks": "1.0.0"
+    "histycore-fabric": "1.x"
   },
-  "jars": [
-    {
-      "file": "META-INF/jars/custom-content-packs-1.0.0.jar"
-    }
-  ],
+
   "authors": [
     "OracleHisty"
   ],
